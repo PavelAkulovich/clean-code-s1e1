@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.item, .big-section {
+.item,
+.big-section {
   list-style: none;
 }
-input, .button{
+input,
+.button{
   outline: none;
 }
 .button {
@@ -117,7 +119,7 @@ label[for="new-task"] {
   font-size: 18px;
   width: 226px;
 }
-.item >    input[type="text"] {
+.item > input[type="text"] {
   width: 226px;
 }
 .btn-img {
