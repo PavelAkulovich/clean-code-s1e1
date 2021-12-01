@@ -138,11 +138,11 @@ label[for="new-task"] {
 }
 
 /* Edit Task */
-.item input[type=text] {
+.item input[type="text"] {
   display: none;
 }
 
-.item.edit-mode input[type=text] {
+.item.edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
 }
